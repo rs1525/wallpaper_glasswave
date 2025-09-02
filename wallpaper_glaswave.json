@@ -1108,5 +1108,25 @@
         "size": 6111,
         "dimensions": "2048 x 3072 px",
         "copyright": "Android Kustom15"
+    },
+    {
+        "name": "WALL 109",
+        "author": "AKustom15",
+        "url": "https://res.cloudinary.com/damljixzn/image/upload/v1756831213/WALL_109_xc5v4d.png",
+        "collections": "GLASWAVE",
+        "downloadable": true,
+        "size": 6111,
+        "dimensions": "2048 x 3072 px",
+        "copyright": "Android Kustom15"
+    },
+    {
+        "name": "WALL 110",
+        "author": "AKustom15",
+        "url": "https://res.cloudinary.com/damljixzn/image/upload/v1756831212/WALL_110_vjfh4b.png",
+        "collections": "GLASWAVE",
+        "downloadable": true,
+        "size": 6111,
+        "dimensions": "2048 x 3072 px",
+        "copyright": "Android Kustom15"
     }
 ]
